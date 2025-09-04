@@ -1,0 +1,53 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity cache
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash / log / profiling
+sysinfo.txt
+*.stacktrace
+*.log
+*.diff
+
+# Builds
+*.apk
+*.aab
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+*.ipa
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Other
+*.unitypackage
+*.DS_Store
+Thumbs.db
